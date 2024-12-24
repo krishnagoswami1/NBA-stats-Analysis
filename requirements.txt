@@ -3,7 +3,7 @@ matplotlib
 seaborn
 pandas
 numpy
+pybase64
 lxml
 requests 
-bs4
-io
+beautifulsoup4
