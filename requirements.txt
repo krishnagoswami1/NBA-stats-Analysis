@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+pandas
+numpy
+base64
+lxml
+requests 
+bs4
+io
